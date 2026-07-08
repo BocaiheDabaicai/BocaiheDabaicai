@@ -1,64 +1,28 @@
-# 👋 你好，我是刘坚 (Jian Liu)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Playpen+Sans&weight=300&size=24&duration=8000&pause=1000&color=7A6B5D&center=true&vCenter=true&width=600&height=60&lines=%22Hello+%E2%80%94+a+journey+too+beautiful+to+put+into+words.%22)](https://git.io/typing-svg)
 
-> 4 年经验的 AI 应用开发工程师 · 全栈实践者 · 软考高级系统分析师
+## Liu Jian
 
----
+AI Application Engineer · Full-Stack Developer · Architecture Design
 
-## 🧑‍💻 关于我
+Focused on AI application delivery and enterprise-level architecture. Currently exploring AI Agent, MCP & A2A protocols, and Rust. I document my learning journey, development projects, technical articles, and insights — hoping they may be helpful to others.
 
-- 🔭 目前正在做：基于 **MCP 协议**的企业管理 AI Agent，用自然语言操作数据库
-- 🌱 正在学习：Rust、RAG 架构、Agent 编排框架
-- 💬 问我关于：Vue3 / TypeScript / AI Agent / MCP / Docker
-- 📫 联系我：54572905@qq.com
-- 🎯 目标：成为一名懂业务、能落地、有视野的 AI 应用架构师
+![GitHub Stats](https://card.shiina.xyz/card/BocaiheDabaicai?bg_color=f5f0eb&title_color=4a3728&text_color=7a6b5d&icon_color=7a6b5d&border_color=e0d6cd)
 
----
+**Tech Stack**
 
-## 🛠️ 技术栈
+`Frontend: Vue · React · JS/TS · Pinia · TailwindCSS · Nuxt`
 
-| 领域 | 技术 |
-| :--- | :--- |
-| **AI 应用** | Agent、MCP 协议、RAG、Prompt Engineering、Function Calling、DeepSeek API |
-| **前端** | Vue3、TypeScript、TailwindCSS、Nuxt、ECharts |
-| **后端** | Python (FastAPI)、Rust、PostgreSQL |
-| **工程化** | Docker、Linux、Git、CI/CD |
-| **硬件联调** | PDA 扫码/打印、JsBridge 通信 |
+`Backend: Python · Rust`
 
----
+`AI: RAG · Function Calling · MCP · LLM`
 
-## 📌 重点项目
+`DevOps: Docker · Linux · Git`
 
-| 项目 | 简介 |
-| :--- | :--- |
-| 🧠 **[企业管理系统 Agent](https://github.com/BocaiheDabaicai/企业管理系统Agent)** | 基于 MCP 协议，用自然语言驱动数据库增删改查的 AI Agent |
-| 📱 **[山花车铺](https://github.com/BocaiheDabaicai/...)** | 覆盖全省 200+ 业务员的工业级数字化销售系统（Vue3 + 硬件联调） |
-| 📝 **[个人博客](https://rpress-bababoy231.vercel.app)** | 12 篇技术文章，涵盖 AI、Rust、Docker、MCP |
+**Connect with Me**
 
----
+- Email: 54572905@qq.com
+- Blog: [xhsndl's Blog](https://rpress-bababoy231.vercel.app/index.html)
+- Open to: AI Application Engineer (Full-Stack) — Hangzhou / Shenzhen / Shanghai
 
-## 📊 一些数字
-
-[![GitHub 统计](https://github-readme-stats.vercel.app/api?username=BocaiheDabaicai&show_icons=true&theme=default)]()
-
-[![常用语言](https://github-readme-stats.vercel.app/api/top-langs/?username=BocaiheDabaicai&layout=compact)]()
-
----
-
-## 📄 证书与资质
-
-- 软考高级 · 系统分析师（国家级高级职称）
-- 贵阳贵安 F 类产业人才（市级高层次人才认定）
-- 4 项软件著作权
-- 贵州大学 · 工程管理硕士（AI 应用方向）在读
-
----
-
-## 📬 联系我
-
-- 📧 邮箱：54572905@qq.com
-- 📝 博客：https://rpress-bababoy231.vercel.app
-- 💼 求职意向：AI 应用开发工程师（全栈），base 杭州 / 深圳 / 上海
-
----
-
-⭐ **如果觉得我的项目有趣，欢迎点个 Star 或联系我交流～**
+> "Simplicity is the ultimate sophistication."
+> — Leonardo da Vinci
